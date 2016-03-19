@@ -15,6 +15,8 @@ Contents:
 
 * :doc:`/image`
 
+.. image:: _static/test.jpg
+
 Indices and tables
 ==================
 
